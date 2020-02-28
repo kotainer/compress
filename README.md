@@ -1,0 +1,1 @@
+Library for compressed web application bundles
